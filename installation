@@ -1,0 +1,15 @@
+Installation video: https://www.youtube.com/watch?v=vxBQYGGITmM
+
+Post-installation:
+You'll need to create a swap file after installing and rebooting. Open terminal from the panel shortcut and run the following commands:
+
+sudo fallocate -l 2048M /swapfile
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon /swapfile
+
+Edit your fstab:
+sudo nano /etc/fstab
+
+Add to end of file on its own line
+/swapfile none swap sw 0 0
