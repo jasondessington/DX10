@@ -9,4 +9,3 @@ Desktop: XFCE
 Desktop wallpaper: Droplets by Philip Haas
 Theming: Materia GTK & Flat Remix
 Build: Jason Dessington
-
