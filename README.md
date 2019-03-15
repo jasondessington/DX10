@@ -4,13 +4,8 @@ Pure Debian built from netboot with only the required packages to run XFCE effic
 Features a host of under-the-hood improvements making your system snappy even on low-end hardware (1GB min - 4GB recommended). Theming is deliberately plain as most will change it anyway. Similar reasoning behind not including any software (besides the basics). A concept 3 years in the making which has been tested, refined and used as a daily driver. Has not been tested in a printing/networking environment (testers welcome).
 
 CREDITS
-
 Base: Debian Buster
-
 Desktop: XFCE
-
 Desktop wallpaper: Droplets by Philip Haas
-
 Theming: Materia GTK & Flat Remix
-
 Build: Jason Dessington
